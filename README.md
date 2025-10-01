@@ -97,3 +97,4 @@ Este proyecto está bajo una licencia académica para uso educativo exclusivamen
 
 ---
 *Desarrollado para fines educativos - Universidad del Bio Bio 2025-2*
+# ISW_Tarea2_Fabian_Mora
